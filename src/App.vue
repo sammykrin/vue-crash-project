@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>Hello World</h1>
+    <h1>Welcome</h1>
     
   </div>
 </template>
@@ -37,6 +37,7 @@ body{
   border: 1px solid steelblue;
   padding: 30px;
   border-radius: 5px;
+  text-align: center;
 }
 
 .btn{
