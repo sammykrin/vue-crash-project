@@ -17,7 +17,7 @@ export default {
   header {
       display: flex;
       justify-content: space-between;
-      align-items: center;
+      align-items: flex-start;
       margin-bottom: 20px;
   }
 </style>
